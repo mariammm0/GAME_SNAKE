@@ -36,7 +36,7 @@ Chaque fruit mangé augmente la taille du serpent.
 * Boucle de jeu fluide avec `pygame.time.set_timer`
 
 
-## 🧠 Structure du code
+## Structure du code
 
 Le projet est organisé en plusieurs classes :
 
