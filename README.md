@@ -81,7 +81,7 @@ pygame.math.Vector2
 Utilisé pour représenter les positions et les directions du serpent.
 
 
-##Contrôles
+## Contrôles
 
 * ⬆️ Flèche haut : monter
 * ⬇️ Flèche bas : descendre
