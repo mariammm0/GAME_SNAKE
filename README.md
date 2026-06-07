@@ -12,6 +12,13 @@ L’objectif du projet était de découvrir la programmation en Python à traver
 * les collisions,
 * et la logique d’un jeu vidéo.
 
+## Certification
+
+J’ai réalisé ce projet dans le cadre d’un stage à l’association **Science Ouverte** en 2022.
+
+Voir la certification : 
+
+https://github.com/mariammm0/GAME_SNAKE/blob/main/Attestation%20de%20participation%20-%20Mariam%20Abd%20El%20Moneim.pdf
 
 ## Principe du jeu
 
