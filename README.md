@@ -18,7 +18,7 @@ J’ai réalisé ce projet dans le cadre d’un stage à l’association **Scien
 
 Voir la certification : 
 
-https://github.com/mariammm0/GAME_SNAKE/blob/main/Attestation%20de%20participation%20-%20Mariam%20Abd%20El%20Moneim.pdf
+[Voir la certification](https://github.com/mariammm0/GAME_SNAKE/blob/main/Attestation%20de%20participation%20-%20Mariam%20Abd%20El%20Moneim.pdf)
 
 ## Principe du jeu
 
