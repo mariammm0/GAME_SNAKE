@@ -1,6 +1,6 @@
-#Snake Game en Python (Pygame)
+# Snake Game en Python (Pygame)
 
-##Présentation
+## Présentation
 
 Ce projet est une version du jeu **Snake** développée en **Python** avec la bibliothèque **Pygame**.
 Il a été réalisé dans le cadre d’un stage d’une semaine en **2022** au sein de l’association **Science Ouverte**.
@@ -13,7 +13,7 @@ L’objectif du projet était de découvrir la programmation en Python à traver
 * et la logique d’un jeu vidéo.
 
 
-##Principe du jeu
+## Principe du jeu
 
 Le joueur contrôle un serpent qui se déplace sur une grille.
 Le but est de manger des fruits pour grandir, tout en évitant :
@@ -24,7 +24,7 @@ Le but est de manger des fruits pour grandir, tout en évitant :
 Chaque fruit mangé augmente la taille du serpent.
 
 
-##Fonctionnalités
+## Fonctionnalités
 
 * Déplacement du serpent avec les flèches du clavier
 * Génération aléatoire des fruits
@@ -58,9 +58,9 @@ Le projet est organisé en plusieurs classes :
 * Met à jour les éléments du jeu
 
 
-##Bibliothèques utilisées
+## Bibliothèques utilisées
 
-###Pygame
+### Pygame
 
 Pygame
 Utilisée pour :
@@ -71,11 +71,11 @@ Utilisée pour :
 * contrôler la boucle de jeu
 
 
-###Random
+### Random
 
 Module Python intégré utilisé pour placer les fruits aléatoirement.
 
-###Vector2 (Pygame)
+### Vector2 (Pygame)
 
 pygame.math.Vector2
 Utilisé pour représenter les positions et les directions du serpent.
@@ -89,7 +89,7 @@ Utilisé pour représenter les positions et les directions du serpent.
 * ➡️ Flèche droite : aller à droite
 
 
-##Améliorations possibles
+## Améliorations possibles
 
 * Ajouter un écran de Game Over
 * Ajouter un score affiché à l’écran
@@ -97,7 +97,7 @@ Utilisé pour représenter les positions et les directions du serpent.
 * Le jeu ne s’arrête pas lorsque le serpent touche les bords de la fenêtre
 
 
-##Contexte
+## Contexte
 
 Projet réalisé en **2022** lors d’un stage d’initiation à la programmation d’une semaine à l’association **Science Ouverte**.
 
