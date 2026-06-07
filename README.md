@@ -28,6 +28,10 @@ Le but est de manger des fruits pour grandir, tout en évitant :
 
 Chaque fruit mangé augmente la taille du serpent.
 
+## Démonstration vidéo
+
+https://github.com/mariammm0/GAME_SNAKE/blob/main/VVCQE6386.MOV
+
 
 ## Fonctionnalités
 
